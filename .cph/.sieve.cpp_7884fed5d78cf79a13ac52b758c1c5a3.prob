@@ -1,0 +1,1 @@
+{"name":"Local: sieve","url":"/Users/arwen/Documents/OSP 2026/sieve.cpp","tests":[{"id":1784100466069,"input":"27 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/arwen/Documents/OSP 2026/sieve.cpp","group":"local","local":true}
