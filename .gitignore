@@ -1,0 +1,16 @@
+# Compiled C++
+*.exe
+*.out
+*.o
+*.a
+*.dSYM/
+
+# Competitive programming
+*.prob
+
+# macOS
+.DS_Store
+
+# Compiled executables
+bin/
+build/
